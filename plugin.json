@@ -1,0 +1,11 @@
+{
+  "name": "Decky Achievement Manager",
+  "author": "bakadestroyer",
+  "flags": ["debug", "_root"],
+  "api_version": 1,
+  "publish": {
+    "tags": ["template", "root"],
+    "description": "An achievement manager for the Steam Deck",
+    "image": "https://opengraph.githubassets.com/1/SteamDeckHomebrew/PluginLoader"
+  }
+}
