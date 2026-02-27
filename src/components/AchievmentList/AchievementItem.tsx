@@ -1,6 +1,5 @@
 import { FC } from "react";
 import { Field, Spinner } from "@decky/ui";
-import "./styles.css";
 import { FaLock, FaUnlock } from "react-icons/fa";
 
 interface AchievementItemProps {
