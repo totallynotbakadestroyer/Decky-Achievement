@@ -10,21 +10,24 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SteamDeckHomebrew/decky-plugin-template.git"
+    "url": "git+https://github.com/totallynotbakadestroyer/decky-achievement.git"
   },
   "keywords": [
     "decky",
     "plugin",
-    "plugin-template",
     "steam-deck",
-    "deck"
+    "deck",
+    "achievement",
+    "achievement manager",
+    "samira",
+    "SAM"
   ],
   "author": "bakadestroyer <bakadestroyer@proton.me>",
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/totallynotbakadestroyer/decky-achievemnt-manager/issues"
+    "url": "https://github.com/totallynotbakadestroyer/decky-achievement/issues"
   },
-  "homepage": "https://github.com/totallynotbakadestroyer/decky-achievemnt-manager#readme",
+  "homepage": "https://github.com/totallynotbakadestroyer/decky-achievement#readme",
   "devDependencies": {
     "@decky/rollup": "^1.0.2",
     "@decky/ui": "^4.11.0",
