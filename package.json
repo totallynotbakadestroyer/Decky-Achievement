@@ -23,7 +23,7 @@
     "SAM"
   ],
   "author": "bakadestroyer <bakadestroyer@proton.me>",
-  "license": "BSD-3-Clause",
+  "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/totallynotbakadestroyer/decky-achievement/issues"
   },
